@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "My new project",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "author": "Timmy",
+      "id": 1
+    },
+    {
+      "title": "My new project",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "author": "Dayo",
+      "id": 2
+    },
+    {
+      "title": "My new project",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "author": "Savannah",
+      "id": 3
+    },
+    {
+      "title": "Web Test",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam ipsum ex facere, reiciendis quia impedit sint, repudiandae laborum quae reprehenderit esse ea earum architecto assumenda pariatur doloremque. Aliquam, nihil et.",
+      "author": "mario",
+      "id": 4
+    },
+    {
+      "title": "Awesome",
+      "body": "Awesome",
+      "author": "timmy",
+      "id": 6
+    }
+  ]
+}
