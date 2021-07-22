@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Simple Blog Application with React Library
+Building this project, you'll practice using
+- JSON Server
+- React Components
+- States & Props
+- Hooks
+- Fetch
+
 ## Available Scripts
 
 In the project directory, you can run:
